@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stupendous Counter", "Stupendous Counter\Stupendous Counter.csproj", "{0393D583-541C-43B7-8693-ABD7B6548E6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupendousCounter.Droid", "Stupendous Counter\StupendousCounter.Droid.csproj", "{0393D583-541C-43B7-8693-ABD7B6548E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupendousCounter.Core", "StpendousCounter.Core\StupendousCounter.Core.csproj", "{3ED301F4-2D76-48B4-BF3D-D2200C3C15BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StupendousCounter.Core.Tests.Android", "StupendousCounter.Core.Tests.Android\StupendousCounter.Core.Tests.Android.csproj", "{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +21,16 @@ Global
 		{0393D583-541C-43B7-8693-ABD7B6548E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0393D583-541C-43B7-8693-ABD7B6548E6F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0393D583-541C-43B7-8693-ABD7B6548E6F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3ED301F4-2D76-48B4-BF3D-D2200C3C15BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED301F4-2D76-48B4-BF3D-D2200C3C15BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED301F4-2D76-48B4-BF3D-D2200C3C15BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED301F4-2D76-48B4-BF3D-D2200C3C15BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9236EB-5312-4FAA-B3E8-ACDCC89762F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
