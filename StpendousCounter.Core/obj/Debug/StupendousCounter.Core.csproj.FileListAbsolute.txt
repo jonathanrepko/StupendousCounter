@@ -1,0 +1,15 @@
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\StpendousCounter.Core.dll
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\StpendousCounter.Core.pdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\SQLite-net.dll
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\SQLitePCL.raw.dll
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StupendousCounter.Core.csprojResolveAssemblyReference.cache
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StpendousCounter.Core.dll
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StpendousCounter.Core.pdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\obj\Debug\StpendousCounter.Core.dll.mdb
+C:\Users\jrepko\Documents\Visual Studio 2015\Android\Projects\StupendousCounter\StpendousCounter.Core\bin\Debug\StpendousCounter.Core.dll.mdb

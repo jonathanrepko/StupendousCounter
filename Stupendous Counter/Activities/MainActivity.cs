@@ -13,7 +13,7 @@ using Android.Support.Design.Widget;
 
 namespace Stupendous_Counter.Activities
 {
-    [Activity(Label = "Home", MainLauncher = true, LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
+    [Activity(Label = "@string/app_name", MainLauncher = true, LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
     public class MainActivity : BaseActivity
     {
 
@@ -32,6 +32,9 @@ namespace Stupendous_Counter.Activities
         {
             base.OnCreate(savedInstanceState);
 
+            var path = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            var dbPath = path.Combine(path, "coutners.db3");
+            DatabaseHelper.CreateDatabase(dbPath);
 
             drawerLayout = this.FindViewById<DrawerLayout>(Resource.Id.drawer_layout);
 
